@@ -1,3 +1,4 @@
+//these are the GUI  editions 
 #include "StdAfx.h"
 #include <iostream>
 #include "MyList.h"

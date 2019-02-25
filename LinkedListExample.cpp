@@ -1,3 +1,4 @@
+//GIT GUI edit
 // LinkedList Example : Console Application
 #include "stdafx.h"
 #include "MyList.h" 

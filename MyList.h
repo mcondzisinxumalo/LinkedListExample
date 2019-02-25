@@ -1,3 +1,4 @@
+//these are the GUI editions
 #pragma once
 
 typedef  char* DataType;
